@@ -1,6 +1,6 @@
 export const NAVBAR_SCHEMA = {
   home: {
-    text: 'ELSSA',
+    text: 'Find Shelby',
     href: '/home',
   },
   items: [
