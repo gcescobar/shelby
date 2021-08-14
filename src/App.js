@@ -28,25 +28,11 @@ function App() {
   return (
     <Router>
       <ScrollToTop />
-      <MainNavbar />
       <Switch>
-        <Route path="/about-us">
-          <AboutUs />
-        </Route>
-        <Route path="/contact-us">
-          <Contact />
-        </Route>
-        <Route path="/donate">
-          <Donate />
-        </Route>
-        <Route path="/board_members">
-          <BoardMembers />
-        </Route>
         <Route path="/">
           <Home />
         </Route>
       </Switch>
-      <MainFooter />
     </Router>
   );
 }
