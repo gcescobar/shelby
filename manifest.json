@@ -1,6 +1,6 @@
 {
-  "short_name": "ELSSA",
-  "name": "Non Profit",
+  "short_name": "Find Shelby",
+  "name": "Help us find our cat.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "stem.png",
+      "src": "cat.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "stem.png",
+      "src": "cat.png",
       "type": "image/png",
       "sizes": "512x512"
     }
