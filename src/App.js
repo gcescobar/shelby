@@ -9,10 +9,6 @@ import MainNavbar from './components/custom/MainNavbar';
 import MainFooter from './components/custom/MainFooter';
 
 import Home from './pages/Home';
-import AboutUs from './pages/AboutUs';
-import Contact from './pages/Contact';
-import BoardMembers from './pages/BoardMembers';
-import Donate from './pages/Donate';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
